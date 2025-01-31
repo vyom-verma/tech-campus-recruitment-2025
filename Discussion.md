@@ -25,10 +25,4 @@ Given the problem of efficiently extracting logs from a **1 TB** log file, I nee
 #### **Final Result:**  
 A clean, efficient script that **extracts logs for a given date from a massive log file without using excessive memory**.  
 
-#### **Next Steps?**  
-To further optimize, I could:
-- Use **Pandas with chunk processing** for even better performance.
-- Implement **multithreading** to speed up extraction.
-- Store logs in a **database** for faster queries in the future.  
 
-Would love to hear thoughts—what features would you like next?
